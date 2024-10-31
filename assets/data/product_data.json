@@ -1,0 +1,107 @@
+[
+  {
+    "image":"assets/images/fast_food/baklava.png",
+    "name": "Baklava",
+    "price": 671,
+    "star": 2.9,
+    "inStock": 72
+  },
+  {
+    "image":"assets/images/fast_food/barbecue.png",
+    "name": "Barbecue",
+    "price": 955,
+    "star": 1.4,
+    "inStock": 49
+  },
+  {
+    "image":"assets/images/fast_food/burger.png",
+    "name": "Burger",
+    "price": 272,
+    "star": 4.5,
+    "inStock": 65
+  },
+  {
+    "image":"assets/images/fast_food/cake.png",
+    "name": "Cake",
+    "price": 428,
+    "star": 3.2,
+    "inStock": 44
+  },
+  {
+    "image":"assets/images/fast_food/chicken-leg.png",
+    "name": "chicken Leg",
+    "price": 781,
+    "star": 1.7,
+    "inStock": 15
+  },
+  {
+    "image":"assets/images/fast_food/coffee.png",
+    "name": "Coffee",
+    "price": 347,
+    "star": 0.2,
+    "inStock": 51
+  },
+  {
+    "image":"assets/images/fast_food/cupcake.png",
+    "name": "Cup Cake",
+    "price": 483,
+    "star": 4.2,
+    "inStock": 62
+  },
+  {
+    "image":"assets/images/fast_food/doughnut.png",
+    "name": "Doughnut",
+    "price": 828,
+    "star": 1.7,
+    "inStock": 67
+  },
+  {
+    "image":"assets/images/fast_food/food.png",
+    "name": "Food",
+    "price": 347,
+    "star": 3.2,
+    "inStock": 21
+  },
+  {
+    "image": "assets/images/fast_food/hamburger.png",
+    "name": "Humburger",
+    "price": 761,
+    "star": 3.8,
+    "inStock": 39
+  },
+  {
+    "image": "assets/images/fast_food/masala-dosa.png",
+    "name": "Masala Dosa",
+    "price": 412,
+    "star": 1.9,
+    "inStock": 18
+  },
+  {
+    "image": "assets/images/fast_food/nachos.png",
+    "name": "Nachos",
+    "price": 612,
+    "star": 2.7,
+    "inStock": 91
+  },
+  {
+    "image": "assets/images/fast_food/noodles.png",
+    "name": "Noodles",
+    "price": 847,
+    "star": 4.8,
+    "inStock": 42
+  },
+  {
+    "image": "assets/images/fast_food/pizza.png",
+    "name": "Pizza",
+    "price": 965,
+    "star": 2.3,
+    "inStock": 80
+  },
+  {
+    "image": "assets/images/fast_food/salad.png",
+    "name": "Salad",
+    "price": 637,
+    "star": 1.5,
+    "inStock": 58
+  }
+]

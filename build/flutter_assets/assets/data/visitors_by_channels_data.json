@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "session_duration": "2023-08-18T14:47:41Z",
+    "channel": "Organic Search",
+    "session": 547,
+    "bounce_rate": 27.2,
+    "target_reached": 843,
+    "page_per_session": 4.4
+  },
+  {
+    "id": 2,
+    "session_duration": "2023-04-20T20:13:24Z",
+    "channel": "Direct",
+    "session": 855,
+    "bounce_rate": 25.8,
+    "target_reached": 998,
+    "page_per_session": 6.6
+  },
+  {
+    "id": 3,
+    "session_duration": "2023-09-05T02:15:03Z",
+    "channel": "Referral",
+    "session": 337,
+    "bounce_rate": 12.4,
+    "target_reached": 509,
+    "page_per_session": 8.0
+  },
+  {
+    "id": 4,
+    "session_duration": "2023-06-23T13:50:55Z",
+    "channel": "Social",
+    "session": 279,
+    "bounce_rate": 40.4,
+    "target_reached": 860,
+    "page_per_session": 7.3
+  },
+  {
+    "id": 5,
+    "session_duration": "2023-09-14T09:01:34Z",
+    "channel": "Email",
+    "session": 118,
+    "bounce_rate": 46.2,
+    "target_reached": 168,
+    "page_per_session": 3.0
+  },
+  {
+    "id": 6,
+    "session_duration": "2023-07-14T01:46:51Z",
+    "channel": "Paid Search",
+    "session": 205,
+    "bounce_rate": 32.8,
+    "target_reached": 583,
+    "page_per_session": 2.5
+  }
+]

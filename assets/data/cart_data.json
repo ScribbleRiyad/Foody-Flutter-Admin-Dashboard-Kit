@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Baklava",
+    "image": "assets/images/fast_food/baklava.png",
+    "price": 20,
+    "quantity": 1,
+    "sub_total": 20
+  },
+  {
+    "name": "Barbecue",
+    "image": "assets/images/fast_food/barbecue.png",
+    "price": 10,
+    "quantity": 2,
+    "sub_total": 20
+  },
+  {
+    "name": "Burger",
+    "image": "assets/images/fast_food/burger.png",
+    "price": 15,
+    "quantity": 1,
+    "sub_total": 15
+  },
+  {
+    "name": "Cake",
+    "image": "assets/images/fast_food/cake.png",
+    "price": 30,
+    "quantity": 1,
+    "sub_total": 30
+  },
+  {
+    "name": "Chicken Leg",
+    "image": "assets/images/fast_food/chicken-leg.png",
+    "price": 5,
+    "quantity": 1,
+    "sub_total": 5
+  },
+  {
+    "name": "Coffee",
+    "image": "assets/images/fast_food/coffee.png",
+    "price": 20,
+    "quantity": 2,
+    "sub_total": 40
+  },
+  {
+    "name": "Cupcake",
+    "image": "assets/images/fast_food/cupcake.png",
+    "price": 30,
+    "quantity": 5,
+    "sub_total": 150
+  }
+]
